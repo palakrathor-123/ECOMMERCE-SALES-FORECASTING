@@ -57,7 +57,7 @@ streamlit run dashboard/app.py
 * Future Sales Forecast
 
  ## Dashboard Preview 
-
+"C:\Users\Welcome\Pictures\Screenshots\Screenshot 2026-03-13 084551.png"
 
 
 
