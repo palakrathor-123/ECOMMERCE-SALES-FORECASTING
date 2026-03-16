@@ -57,7 +57,15 @@ streamlit run dashboard/app.py
 * Future Sales Forecast
 
  ## Dashboard Preview 
-"C:\Users\Welcome\Pictures\Screenshots\Screenshot 2026-03-13 084551.png"
+<img width="1050" height="463" alt="Image" src="https://github.com/user-attachments/assets/a4e59ed2-aa56-424a-ae61-dee5b3acebd4" />
+
+<img width="738" height="511" alt="Image" src="https://github.com/user-attachments/assets/70a326c6-804e-47b0-ab07-a21ed2646d04" />
+
+<img width="680" height="496" alt="Image" src="https://github.com/user-attachments/assets/b315deed-73db-4efe-a9d3-f40949d30fa3" />
+
+<img width="697" height="503" alt="Image" src="https://github.com/user-attachments/assets/174b2a0c-a2b9-4645-9083-bc6695baf120" />
+
+<img width="677" height="486" alt="Image" src="https://github.com/user-attachments/assets/a7349f3c-f0d4-45ad-b70b-ec3c1cc41ba2" />
 
 
 
